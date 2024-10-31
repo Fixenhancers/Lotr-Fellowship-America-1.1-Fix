@@ -15,3 +15,5 @@ Chip, JokerAlex21, Blankname.
 Testers: 
 
 MrDoomStar
+
+credit to Elisha Riedlinger for the base wrapper and 13 AG.
